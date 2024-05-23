@@ -1,2 +1,3 @@
 # primer-repositorio
-mi primer repositorio para curso fullstack sustantiva
+mi primer repositorio para curso fullstack BBB Sustantiva
+
